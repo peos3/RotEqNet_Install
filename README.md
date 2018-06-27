@@ -1,2 +1,2 @@
 # RotEqNet_Install
-* [RotEqNet](https://github.com/peos3/RotEqNet-1) RotEqNet
+* [RotEqNet-1](https://github.com/peos3/RotEqNet-1) RotEqNet
