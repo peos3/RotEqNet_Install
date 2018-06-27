@@ -1,2 +1,2 @@
 # RotEqNet_Install
-* [mcnRotEqNet](https://github.com/dmarcosg/RotEqNet) RotEqNet
+* [mcn_test_rot](https://github.com/dmarcosg/RotEqNet) RotEqNet
